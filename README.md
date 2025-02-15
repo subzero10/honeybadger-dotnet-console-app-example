@@ -1,4 +1,4 @@
-# Honeybadger .Net Example
+# Honeybadger .Net Console App Example
 
 This is an example of how to use the Honeybadger .Net library to report
 exceptions to Honeybadger.
